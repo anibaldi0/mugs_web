@@ -1,4 +1,4 @@
-const menu = document.querySelector('.nav__menu');
+const menu = document.querySelector('.nav__hambur');
 const navLogo = document.querySelector('.nav__logo');
 const menuList = document.querySelector('.nav__list');
 const links = document.querySelectorAll('.nav__link');
